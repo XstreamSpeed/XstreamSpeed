@@ -4,8 +4,6 @@
 - 📫 Reach me on Discord Mex#1221
 
 ### Hey there, I'm Mex! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mex" alt="yus" /> </p>
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/481783822342553601.png" alt="Discord" /> </p>
 
 
 
