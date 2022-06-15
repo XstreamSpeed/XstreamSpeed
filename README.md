@@ -13,7 +13,7 @@
  
 <br />
 
-**am a passionate self-taught programmer from India passionate to change the world with my code.**
+**I am a self-taught programmer from India passionate to change the world with my code.**
 
 **Languages and Tools:** &nbsp;
 <p align="center">
