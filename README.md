@@ -3,7 +3,26 @@
 - 🌱 I’m currently learning Java
 - 📫 Reach me on Discord Mex#1221
 
-<!---
-XstreamSpeed/XstreamSpeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hey there, I'm Mex! 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mex" alt="yus" /> </p>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/481783822342553601.png" alt="Discord" /> </p>
+
+
+
+
+
+
+ 
+<br />
+
+**am a passionate self-taught programmer from India passionate to change the world with my code.**
+
+**Languages and Tools:** &nbsp;
+<p align="center">
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
+</p>
+ 
