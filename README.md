@@ -3,10 +3,13 @@
 - 🌱 I’m currently learning Java
 - 📫 Reach me on Discord Mex#1221
 
+
+
+
 ### Hey there, I'm Mex! 👋
 
 
-
+https://discord.com/users/868189047271612426
 
 
 
