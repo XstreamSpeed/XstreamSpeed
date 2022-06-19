@@ -12,8 +12,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xstreamspeed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/speedxstream)
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-1/868189047271612426.png" alt="Discord" /> </p>
-
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/868189047271612426)](https://discord.com/users/868189047271612426)
  
