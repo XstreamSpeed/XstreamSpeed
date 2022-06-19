@@ -9,7 +9,7 @@
 ### Hey there, I'm Mex! 👋
 
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/481783822342553601.png" alt="Discord" /> </p>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/868189047271612426.png" alt="Discord" /> </p>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xstreamspeed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/speedxstream)
 
 
