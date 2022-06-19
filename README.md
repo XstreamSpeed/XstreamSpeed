@@ -8,7 +8,7 @@
 
 ### Hey there, I'm Mex! 👋
 
-
+<img src="https://komarev.com/ghpvc/?username=legend-js-dev" alt="yus" />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xstreamspeed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/speedxstream)
 
 
