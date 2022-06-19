@@ -11,7 +11,7 @@
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xstreamspeed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/speedxstream)
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2czfRu2dGcXMrijLU9Sct9?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/868189047271612426)](https://discord.com/users/868189047271612426)
  
