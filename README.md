@@ -1,18 +1,21 @@
-- 👋 Hi, I’m XstreamSpeed
-- 👀 I’m interested in Discord.JS Developement
-- 🌱 I’m currently learning Java
-- 📫 Reach me on Discord Mex#1221
-
-
-
-
 ### Hey there, I'm Mex! 👋
 
+•  
+•
+•
+
+
+
+
+
+
+
+###Contact me here!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xstreamspeed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/speedxstream)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/868189047271612426)](https://discord.com/users/868189047271612426)
+[![Discord Presence](https://lanyard.cnrad.dev/api/868189047271612426?theme=light&bg=00aaaa&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Working%20on%20another%20ambitious%20project!)](https://discord.com/users/868189047271612426)
  
 <br />
 
