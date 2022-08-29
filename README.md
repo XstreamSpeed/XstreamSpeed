@@ -1,8 +1,8 @@
 ### Hey there, I'm Mex! 👋
 
-•  
-•
-•
+• The creator of [Quadro](https://dsc.gg/quadromusic)
+• JavaScript Developer
+• Programming with ❤ since 2 years!
 
 
 
