@@ -1,21 +1,17 @@
+<!-- markdownlint-disable -->
+
 ### Hey there, I'm Mex! 👋
 
-• The creator of [Quadro](https://dsc.gg/quadromusic)
+• The creator of [Quadro](https://dsc.gg/quadromusic)															
 • JavaScript Developer
 • Programming with ❤ since 2 years!
 
 
 
-
-
-
-
-###Contact me here!
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xstreamspeed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/speedxstream)
-
+   
+### Contact me here!
 [![Discord Presence](https://lanyard.cnrad.dev/api/868189047271612426?theme=light&bg=00aaaa&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Working%20on%20another%20ambitious%20project!)](https://discord.com/users/868189047271612426)
+
  
 <br />
 
