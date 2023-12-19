@@ -4,12 +4,28 @@
 						
 
 ```js
+import 'life' from 🌏;
+const Mex = new life();
+
 if(!succeed) try();
 
 else if(succeed) await Mex.createNewProject();
+
+async function try(problem, brain, solution) {
+
+ await problem.detect()
+ .then(problem.analyze(brain))
+
+if (!problem.solve) { 
+ await problem.fowardTo(brain);
+ await brain.solveProblem(problem);
+ await brain.applySolution(solution);
+
+brain.log("Problem solved!")
+}
 ```
    
-[![Discord Presence](https://lanyard.cnrad.dev/api/868189047271612426?theme=light&bg=2f3136&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Working%20on%20another%20ambitious%20project!)](https://discord.com/users/868189047271612426)
+[![Discord Presence](https://lanyard.cnrad.dev/api/868189047271612426?theme=dark&bg=&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Working%20on%20another%20ambitious%20project!)](https://discord.com/users/868189047271612426)
 
 ## **🤖 Quadro**
 <a href="https://discord.gg/JHDFBuSuPt"><img src="https://invidget.switchblade.xyz/JHDFBuSuPt" alt="Discord"></a>
